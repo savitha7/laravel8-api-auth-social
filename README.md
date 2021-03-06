@@ -84,6 +84,4 @@ Let's run API through postman.
 
 Run authentication API to get passport access token & copy the token and use the same in Header of other CRUD APIs. 
 
-Please check the laravel8-api-auth-social screen shot and documentation - The collection published URL. [API Documentation](https://documenter.getpostman.com/view/10171555/Tz5jfLUT)
-
-![image](https://user-images.githubusercontent.com/59602549/110216194-b97b5900-7ed3-11eb-8d81-28ecc119f9a8.png)
+Please check the laravel8-api-auth-social documentation - The collection published URL. [API Documentation](https://documenter.getpostman.com/view/10171555/Tz5jfLUT)
